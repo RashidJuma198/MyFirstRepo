@@ -1,1 +1,1 @@
-Iu web Application Development Project
+This is practical in IU learning
